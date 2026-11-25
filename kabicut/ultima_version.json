@@ -1,0 +1,12 @@
+{
+ "tipo": "actualizacion",
+ "p": "kabicut",
+ "version": "1.10.5",
+ "fecha": "2026-11-25",
+ "nombre": "KabiCut_v1.10.5.exe",
+ "url": "https://github.com/abaianitz/abaianitz-suite/releases/download/kabicut-v1.10.5/KabiCut_v1.10.5.exe",
+ "sha256": "59f490a4f3b46add30dca61d513be70661b9374595f69dc499db30cad641b23d",
+ "tam": 10115584,
+ "notas": "",
+ "firma": "UIgmYzoKMmEim5PenunWHxKgiPiFsEIY273MIsMQIpOi5g3sm71KKdF7LVpA-6XP43xgntae0qsQ_8NDC_LqDg"
+}
